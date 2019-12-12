@@ -7,11 +7,9 @@ npm install
 
 ### Run Vuepress
 ``` js
-{
-  "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
-  }
+"scripts": {
+  "docs:dev": "vuepress dev docs",
+  "docs:build": "vuepress build docs"
 }
 ```
 
