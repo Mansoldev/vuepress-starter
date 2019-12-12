@@ -5,25 +5,19 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
+### Run Vuepress
+``` js
+{
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### External documentation
+See [Vuepress docs](https://vuepress.vuejs.org/).
+See [Blog post](https://gilberttanner.com/blog/how-to-create-a-documentation-website-usingvuepress).
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
