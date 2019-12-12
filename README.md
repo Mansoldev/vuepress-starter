@@ -15,6 +15,7 @@ npm install
 
 ### External documentation
 See [Vuepress docs](https://vuepress.vuejs.org/).
+
 See [Blog post](https://gilberttanner.com/blog/how-to-create-a-documentation-website-usingvuepress).
 
 ### Customize configuration
